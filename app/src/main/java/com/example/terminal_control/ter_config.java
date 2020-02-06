@@ -95,6 +95,7 @@ public class ter_config extends AppCompatActivity {
                 if(Terminal.equals("0")) {
                     WriteTerminal();
                 }
+
                 else
                 {
                     WriteTerminal(Terminal);
