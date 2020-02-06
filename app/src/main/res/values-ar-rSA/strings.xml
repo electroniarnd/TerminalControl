@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Terminals</string>
+    <string name="action_settings">Configuration</string>
+    <string name="title_activity_ter_config">Terminal Configuration</string>
+    <string name="title_activity_ter_control">Terminal Control</string>
+    <string name="Execute">Execute</string>
+    <string name="Relay1">Relay1</string>
+    <string name="Relay2">Relay2</string>
+    <string name="Relay3">Relay3</string>
+    <string name="Reset">Relay3</string>
+    <string name="ON">ON</string>
+    <string name="OFF">OFF</string>
+    <string name="ok">OK</string>
+    <string name="TerNo">TerNo</string>
+    <string name="IP_Address"> IP Address</string>
+    <string name="Port_No">Port No</string>
+    <string name="Update">Update</string>
+    <string name="Cancel">Cancel</string>
+    <string name="Data_deleted">Data deleted</string>
+    <string name="Delete">Delete</string>
+    <string name="Fail_to_Delete">Delete</string>
+    <string name="Customer">Customer ID</string>
+    <string name="Please_enter_IPAddress">Please enter IPAddress</string>
+    <string name="Please_enter_Port_No">Please enter Port No</string>
+    <string name="Please_enter_Terminal_No">Please enter Terminal No</string>
+    <string name="Please_enter_Customer_ID">Please enter  Customer ID</string>
+    <string name="Terminal_Name">Terminal Name</string>
+    <string name="Please_enter_Terminal_Name">Please enter Terminal Name</string>
+    <string name= "Unable_to_connect"> Unable to connect. Check the connection.</string>
+    <string name= "Command">Command</string>
+    <string name= "Invalid_Command">Invalid Command</string>
+    <string name="Ter_Name">Ter Name</string>
+    <string name="DateTime">DateTime</string>
+    <string name="Log_Count">Log Count</string>
+    <string name="Input">Input</string>
+    <string name="Please_Wait">Please Wait</string>
+    <string name="Getting_Terminal_Data">Getting Terminal Data</string>
+</resources>
